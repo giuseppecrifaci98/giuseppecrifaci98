@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Sono sempre stato appassionato fin da bambino della <b>tecnologia</b> e da tuttio ciò che la circonda. Mi piace particolarmente il fatto sia un settore in rapida evoluzione e mi piace ssere sempre aggiornato sulel novità che lo riguardano.
+
+
+Il mondo della <b>programmazione</b> rispecchia pienamente queste caratteristiche. Amo l'idea di poter creare qualcosa di mio partendo da zero. Sono una persona molto curiosa e questo aspetto mi motiva ad intraprendere questo percorso, con la consapevolezza che ci sarà sempre qualcosa di nuovo da imparare.
+
 <!--
 **giuseppecrifaci98/giuseppecrifaci98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
